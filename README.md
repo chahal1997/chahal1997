@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/145982769?v=4" alt="Surinder Singh">
+  <img src="https://avatars.githubusercontent.com/u/145982769?u=1e177968b71223e615100d9ad578bc8a17e279ac&v=4" alt="Surinder Singh">
 </p>
 
 <h1 align="center">👋 Hi, I'm Surinder Singh</h1>
